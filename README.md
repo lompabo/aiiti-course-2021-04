@@ -1,15 +1,15 @@
 ---
-title: AI in the Industry Tutorials (Filling Missing Values in Time Series)
+title: AI in the Industry Tutorials (Anomaly detection via Neural Models)
 author: michele.lombardi2@unibo.it
 ---
 
-# Filling Missing Values in Time Series #
+# Anomaly Detection via Neural Models #
 
-This is the third lecture of the 2021/2022 edition of the "AI in the Industry" course, from [University of Bologna](https://www.unibo.it). Each lecture consists of a tutorial that tackles a simplified industrial problem and tackles it using AI techniques, from Machine Learning to Combinatorial Optimization (and later on their combination).
+This is the fourth lecture of the 2021/2022 edition of the "AI in the Industry" course, from [University of Bologna](https://www.unibo.it). Each lecture consists of a tutorial that tackles a simplified industrial problem and tackles it using AI techniques, from Machine Learning to Combinatorial Optimization (and later on their combination).
 
 While the whole course looks like cookbook, the real goal is using examples to teach how industrial problem can be methodically approaches, analyzed, and tackles using a combination of techniques.
 
-This tutorial in particular deals with techniques for filling missing values in time series, with an emphasis on Gaussian Processes. Multiplicative ensembles are also introduces as a tool to control model variance.
+This tutorial in particular deals with anomaly detection techniques that rely on Neural Network models, in particular Autoencoders and NN-based density estimators (Real NVP). A case study on a high frequency industrial time series referring to a component wear is also presented.
 
 # Accessing the Lecture #
 
